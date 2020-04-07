@@ -4,7 +4,7 @@
 
 ## Setup
 ```sh
-$ git clone https://github.com/nikochetov/hexlet-jest.git
+https://github.com/nikochetov/hexlet-jest.git
 ```
 
 
